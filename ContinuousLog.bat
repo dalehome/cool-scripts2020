@@ -1,4 +1,4 @@
-# Keeps Redisplaying a Directory Tree
+# Keeps Redisplaying a Pretty Log
 # Author Dale Macdonald (2018)
 @echo off
 SET ROOT_FOLDER=.\
