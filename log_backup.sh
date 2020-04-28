@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#
+# © Daleman 2020
+#
 # Check args and fail fast
 if [ $# -lt 2 ] ; then
     echo >&2 "Usage : $0 <source> <storage>"
